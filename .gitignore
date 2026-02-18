@@ -1,0 +1,23 @@
+# Environment
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large model files
+*.pt
+*.pth
+*.onnx
+*.weights
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
